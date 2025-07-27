@@ -1,9 +1,172 @@
-{
-"day_01":{"objectif":"Réveiller la microcirculation et commencer à tonifier l’ovale","exercices":["2 min : Tapotements doux du visage avec les doigts pour stimuler la circulation","5 min : Exercice du 'V' pour lisser les rides du front","3 min : Étirement doux du cou avec les mains"],"soins":["Brume florale à la rose","Huile de pépins de figue de barbarie : 1 goutte par joue"],"astuce":"Boire un verre d’eau citronnée à jeun pour relancer l’hydratation cutanée","motivation":"Chaque geste compte : ta peau te remercie déjà !"},
-"day_02":{"objectif":"Détendre les tensions et oxygéner les tissus","exercices":["1 min : Respiration lente par le nez en posture assise droite","5 min : Auto-massage des joues en cercles avec les paumes","3 min : Exercice 'langue au palais' pour tonifier le menton"],"soins":["Hydrolat de fleur d’oranger pour apaiser","Application d’huile de jojoba sur les zones grasses"],"astuce":"Marcher 15 minutes à l’air libre pour oxygéner la peau","motivation":"Respire profondément, ta beauté vient aussi de l’intérieur ✨"},
-"day_03":{"objectif":"Décongestionner et lisser le regard","exercices":["2 min : Tapotements doux du contour des yeux","4 min : Exercice 'regard levé' (fixer le plafond, relâcher, répéter)","4 min : Roulements lents des yeux dans le sens des aiguilles d’une montre"],"soins":["Compresses froides au thé vert ou camomille sur les paupières","Gel d’aloe vera pur autour des yeux"],"astuce":"Éviter les écrans après 21h pour préserver le contour de l’œil","motivation":"Ton regard devient plus clair, plus vivant jour après jour 👁️"},
-"day_04":{"objectif":"Commencer à lifter les pommettes","exercices":["5 min : Sourires exagérés, bouche fermée, puis relâchement","2 min : Massage tonique vers le haut avec les paumes sur les joues","3 min : Tirage léger des pommettes vers les tempes avec les doigts"],"soins":["Masque express : yaourt nature + miel (5 min)","Huile de rose musquée en massage circulaire doux"],"astuce":"Mâcher lentement les aliments pour tonifier naturellement les muscles du visage","motivation":"Ton sourire est ton meilleur lifting naturel 😄"},
-"day_05":{"objectif":"Améliorer l’élasticité de la peau","exercices":["3 min : Pincements doux et rapides sur tout le visage","3 min : Étirement du front vers le haut avec les doigts","4 min : Auto-massage ascendant avec une huile sèche"],"soins":["Application d’hydrolat de ciste sur l’ensemble du visage","2 gouttes d’huile d’argan chauffées dans les mains et appliquées en pressions"],"astuce":"Prendre une tisane de romarin pour soutenir la détox du foie (effet peau)","motivation":"Tu réactives les fibres de jeunesse de ta peau 💫"},
-"day_06":{"objectif":"Relaxer les muscles d’expression","exercices":["5 min : Respiration abdominale profonde","5 min : Relaxation du front : pose des doigts + relâchement volontaire","2 min : Roulement des épaules pour relâcher la mâchoire"],"soins":["Compresse tiède à la lavande sur les tempes","Massage au rouleau de quartz rose ou jade"],"astuce":"Faire une courte sieste ou 10 min de cohérence cardiaque","motivation":"Quand tu te détends, ton visage se repose et s’illumine 🌙"},
-"day_07":{"objectif":"Fixer les bonnes habitudes et ancrer le rituel","exercices":["2 min : Balayage du visage avec les mains comme une caresse","3 min : Révision des exercices préférés de la semaine","5 min : Massage complet (front, joues, menton, cou)"],"soins":["Masque hydratant maison : avocat + huile d’olive (10 min)","Eau florale de rose pour terminer"],"astuce":"Visualiser ton visage rajeuni chaque matin : cela guide ta routine","motivation":"Tu mérites ce temps pour toi. La constance est ton super-pouvoir 💖"}
-}
+ <!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Routines Visage Jeunesse – Semaine 1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: 'Segoe UI'; background: linear-gradient(to right, #fceabb, #f8b500); color: #2f2f2f; padding:20px; }
+    h1 { text-align:center; color:#fff; margin-bottom:40px; text-shadow:1px1px4px rgba(0,0,0,0.2); }
+    .day { background:#ffffffcc; border-radius:16px; padding:25px; margin-bottom:30px; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
+    h2 { color:#d35400; border-bottom:2px solid #f39c12; padding-bottom:8px; margin-top:0; }
+    .section { margin-bottom:15px; }
+    .section strong { color:#8e44ad; }
+    ul { padding-left:20px; }
+    .video-link { margin-top:10px; display:block; color:#2980b9; text-decoration:none; font-weight:bold; }
+    .motivation { font-style:italic; color:#2980b9; background:#ecf0f1; padding:10px; border-left:4px solid #3498db; border-radius:8px; }
+  </style>
+</head>
+<body>
+  <h1>🌸 Programme Visage Jeunesse – Semaine 1 🌸</h1>
+
+  <div class="day">
+    <h2>Jour 1 – Réveiller la microcirculation</h2>
+    <div class="section"><strong>Objectif :</strong> Réveiller la microcirculation et tonifier l’ovale</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Tapotements doux du visage (2 min)</li>
+        <li>Exercice du “V” sur le front (5 min)</li>
+        <li>Étirement doux du cou (3 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=eSybKdCRDMQ" target="_blank" class="video-link">▶ Voir la vidéo (tapoter le visage)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Brume florale à la rose</li>
+        <li>Huile de pépins de figue de barbarie</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Boire un verre d’eau tiède citronnée</div>
+    <div class="motivation">Chaque geste compte : ta peau te remercie déjà !</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 2 – Détente et oxygénation</h2>
+    <div class="section"><strong>Objectif :</strong> Détendre les tensions, oxygéner les tissus</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Respiration lente par le nez (1 min)</li>
+        <li>Auto‑massage des joues (5 min)</li>
+        <li>Langue au palais pour tonifier le menton (3 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=h27KOtqRWeQ" target="_blank" class="video-link">▶ Voir la vidéo (respiration abdominale)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Hydrolat de fleur d’oranger</li>
+        <li>Huile de jojoba</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Marcher 15 minutes à l’air libre</div>
+    <div class="motivation">Respire profondément, ta beauté vient de l’intérieur ✨</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 3 – Regard éclatant</h2>
+    <div class="section"><strong>Objectif :</strong> Décongestionner et lisser le regard</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Tapotements contour des yeux (2 min)</li>
+        <li>Regard vers le haut (4 min)</li>
+        <li>Roulements des yeux (4 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=bPMSMNbu1Sw" target="_blank" class="video-link">▶ Voir la vidéo (yoga des yeux)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Compresses froides de camomille</li>
+        <li>Gel d’aloe vera pur</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Éviter les écrans après 21 h</div>
+    <div class="motivation">Ton regard devient plus clair, plus vivant jour après jour 👁️</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 4 – Lift naturel des pommettes</h2>
+    <div class="section"><strong>Objectif :</strong> Commencer à lifter les pommettes</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Sourires exagérés (5 min)</li>
+        <li>Massage ascendant des joues (2 min)</li>
+        <li>Tirage léger des pommettes (3 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=zrHXCiITauE" target="_blank" class="video-link">▶ Voir la vidéo (sculpter les pommettes)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Masque yaourt + miel</li>
+        <li>Huile de rose musquée</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Mâcher lentement pour tonifier le visage</div>
+    <div class="motivation">Ton sourire est ton meilleur lifting naturel 😄</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 5 – Élasticité et souplesse</h2>
+    <div class="section"><strong>Objectif :</strong> Améliorer l’élasticité de la peau</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Pincements doux rapides (3 min)</li>
+        <li>Étirement du front (3 min)</li>
+        <li>Massage ascendant complet (4 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=zrHXCiITauE" target="_blank" class="video-link">▶ Voir la vidéo (massage des pommettes)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Hydrolat de ciste</li>
+        <li>Huile d’argan tiède</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Tisane de romarin pour la peau</div>
+    <div class="motivation">Tu réactives les fibres de jeunesse de ta peau 💫</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 6 – Relaxation musculaire du visage</h2>
+    <div class="section"><strong>Objectif :</strong> Relaxer les muscles d’expression</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Respiration abdominale (5 min)</li>
+        <li>Relaxation frontale consciente (5 min)</li>
+        <li>Roulement des épaules (2 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=LHoBjROJoFI" target="_blank" class="video-link">▶ Voir la vidéo (routine anti-rides relaxante)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Compresse tiède à la lavande</li>
+        <li>Massage rouleau de jade</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Courte sieste ou cohérence cardiaque</div>
+    <div class="motivation">Quand tu te détends, ton visage se repose et s’illumine 🌙</div>
+  </div>
+
+  <div class="day">
+    <h2>Jour 7 – Ancrer le rituel jeunesse</h2>
+    <div class="section"><strong>Objectif :</strong> Fixer les bonnes habitudes</div>
+    <div class="section"><strong>Exercices :</strong>
+      <ul>
+        <li>Balayage du visage (2 min)</li>
+        <li>Révision des exercices (3 min)</li>
+        <li>Massage global (5 min)</li>
+      </ul>
+      <a href="https://www.youtube.com/watch?v=LHoBjROJoFI" target="_blank" class="video-link">▶ Voir la vidéo (routine complète)</a>
+    </div>
+    <div class="section"><strong>Soins :</strong>
+      <ul>
+        <li>Masque avocat + huile d’olive</li>
+        <li>Eau florale de rose</li>
+      </ul>
+    </div>
+    <div class="section"><strong>Astuce :</strong> Visualiser un visage rajeuni</div>
+    <div class="motivation">Tu mérites ce temps pour toi. La constance est ton super‑pouvoir 💖</div>
+  </div>
+
+</body>
+</html>
+
+
